@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning many things
 - 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on eCommerce and ERP Projects
-- 📫 How to reach me jusr send and email to innovativetts@gmail.com
+- 📫 How to reach me just send me email to innovativetts@gmail.com
 
 <!---
 itts-uae/itts-uae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
